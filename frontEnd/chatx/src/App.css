@@ -1,0 +1,33 @@
+input{
+    font-size: larger;
+}
+button{
+    font-size: larger;
+    border: 2px black;
+    margin: 5px;
+    
+}
+body{
+    git config --global user.email "you@example.com"
+    git config --global user.name "Your Name"
+    display: flex;
+    justify-content: center;
+    background-color: bisque;
+}
+#c{
+    overflow: scroll;
+}
+.mess{
+font-size: large;
+border: 2px ;
+display: flex;
+justify-content: space-between;
+font-weight: bold;
+padding: 4px;
+background-color: beige;
+padding-left: 24px;
+
+}
+span{
+    margin-left: 50%;
+}
